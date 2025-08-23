@@ -10,3 +10,5 @@ while n:
 
     print(unch)
     n -= 1
+
+# https://judge.beecrowd.com/pt/problems/view/1548
