@@ -32,3 +32,5 @@ int main() {
 
     return 0;
 }
+
+// https://judge.beecrowd.com/pt/problems/view/1581
