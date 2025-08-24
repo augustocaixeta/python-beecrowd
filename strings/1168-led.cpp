@@ -15,8 +15,6 @@ int main() {
             num = V % 10;
             leds += arr[num];
             V /= 10;
-
-            printf("num: %d, leds: %d\n", num, arr[num]);
         }
 
         printf("%d leds\n", leds);
